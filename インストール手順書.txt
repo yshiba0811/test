@@ -1,0 +1,49 @@
+※GitHub使用まで
+
+　参考資料
+
+　　https://my-web-note.com/tortoisegit-install-and-setup/
+
+
+①ダウンロード
+
+　Git for Windows
+
+　　https://gitforwindows.org/
+
+　　Git-2.33.0.2-64-bit.exe
+
+
+　TortoiseGit
+　TortoiseGit Language Packs（japan）
+
+　　https://tortoisegit.org/download/
+
+　　TortoiseGit-2.12.0.0-64bit.msi
+　　TortoiseGit-LanguagePack-2.12.0.0-64bit-ja.msi
+
+
+②インストール
+
+　Git for Windowsをインストール
+
+　※TortoiseGit は、Git for Windows を使用するため、必ず Git for Windows を先にインストールする必要がある。
+
+　　DLした exe を実行
+
+
+　TortoiseGitをインストール
+
+　　DLした exe を実行
+
+
+　TortoiseGitを日本語化
+
+　　DLした exe を実行
+
+　　※インストール後、適当なファイルを右クリックし、メニューの TortoiseGit が日本語表記であればOK
+　　　日本語表記になっていない場合は、以下を実施
+
+　　　適当なファイルを右クリックして「TortoiseGit」→「Settings」をクリック。
+　　　表示されたウィンドウの「General」の「Language」を『日本語』に設定して「適用」→「OK」で完了。
+
